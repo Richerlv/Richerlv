@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on DJI.   
+- 🔭 I’m currently working on DJI.  
 - 🌱 I’m currently learning MIT6.824.  
 - 📫 How to reach me: richerlv@foxmail.com.  
 - 😄 Pronouns: 编程小牛奠基中... 
