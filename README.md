@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
 :information_desk_person:
 
-🔭 I’m currently working on DJI!
+🔭 I’m currently working on DJI!  
 🌱 I’m currently learning MIT6.824, so now learing Go.    
 :v:My interest is distributed correlation and learning source code.  
 📫 How to reach me: richerlv@foxmail.com  
