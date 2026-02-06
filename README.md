@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 😄 Pronouns: 编程小牛奠基中...   
 
 
-AI boom！！！！！！
+AI boom！🎉🎉🎉🎉🎉🎉
